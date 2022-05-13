@@ -46,4 +46,4 @@ function calculateDistance(longitudeA, longitudeB, latitudeA, latitudeB) {
 // To debug: console.error('Debug messages...');
 console.log(closestDefibrilator);
 
-// 77% validation, weird behavior of test 2, other tests pass
+// 75% validation, weird behavior of test 2, other tests pass
